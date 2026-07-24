@@ -19,12 +19,7 @@ A simple command-line Contact Management System written in C. Built as a practic
 - String handling (`fgets`, `strcpy`, `strcmp`)
 - Modular code using functions
 
-## How to Compile & Run
 
-```bash
-gcc contact_manager.c -o contact_manager
-./contact_manager
-```
 
 ## Project Structure
 
